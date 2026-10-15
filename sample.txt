@@ -1,3 +1,3 @@
 This is my Git date practice file.
 I am learning how to create commits with Git.
-This is a sample project for testing commit history.
+This is practice to make perfect.
