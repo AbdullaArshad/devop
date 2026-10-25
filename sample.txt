@@ -1,4 +1,4 @@
 This is my Git date practice file.
 I am learning how to create commits with Git.
 This is practice to make perfect.
-this is my third time lets see whats happen.
+this is my third time lets.
